@@ -1,0 +1,5 @@
+1. Screenshot of initial commit
+2. Screenshot of branch creation (feature branch)
+3. Screenshot of feature.txt added
+4. Screenshot of pull request
+5. Screenshot of merged pull request
